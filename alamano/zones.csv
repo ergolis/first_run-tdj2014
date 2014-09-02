@@ -1,8 +1,5 @@
 "Name","Nature","Code","Code groupe","Code Place","Description"
-"Parcelle de base","land_parcel","LP00",,,"Zone de basse par défault"
-"Fosse eau brune","settlement","S01",,,"Zone Fosse de récupération des eaux brunes"
-"Bâtiment intrabois","building","S01_B01",,"S01",
-"Taupinière","silage_division","S01_D01",,"S01",
-"Zone Outils","food_equipment_division","S01_D02",,"S01",
-"Zone Bureau",,"S01_D03",,"S01",
-"Zone Stockage Produits Phytosanitaires (Bureau)",,"S01_D04",,"S01",
+"Zone globale","settlement","S01",,"","Zone Fosse de récupération des eaux brunes"
+"Bureau","silage_division","S01_D01",,"S01",
+"Stabulation","animal_division","S01_D02",,"S01",
+"Hangar","food_equipment_division","S01_D03",,"S01",
