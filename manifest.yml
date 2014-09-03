@@ -7,16 +7,16 @@ map_measure_srid: 2154                           # Code référentiel spatial
 demo: true                                       # Mode démo (oui/non)
 create_activities_from_telepac: false            # Création des activités uniquement à partir des fichiers TELEPAC
 company:
-  last_name: GAEC DES TERRES DE JIM                         # Nom
+  last_name: Terres de Jim                       # Nom
   addresses:
-    email: gaec.tdj@truc.com                  # Adresse e-mail de votre société
+    email: contact@terresdejim.com               # Adresse e-mail de votre société
     mail:
-      line_4: 17, cours Xavier Arnozan                # Adresse de votre société
-      line_6: 33082 BORDEAUX             # Code postal et ville de votre société
+      line_4: Berganton                          # Adresse de votre société
+      line_6: "33127 SAINT-JEAN-D'ILLAC"         # Code postal et ville de votre société
 users:
   admin@ekylibre.org:                            # Adresse e-mail de l'utilisateur 1 qui sert d'identifiant
-    first_name: Christian                        # Prénom
-    last_name: DUPONT                            # Nom de famille
+    first_name: Jim                              # Prénom
+    last_name: BATAILLE                          # Nom de famille
     password: 12345678                           # Mot de passe
     employed: true
   veto@ekylibre.org:                             # Adresse e-mail de l'utilisateur 1 qui sert d'identifiant
